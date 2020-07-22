@@ -1,0 +1,10 @@
+C:\Users\Rahul\source\repos\KubernetesSample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rahul\source\repos\KubernetesSample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rahul\source\repos\KubernetesSample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Rahul\source\repos\KubernetesSample\bin\Debug\netcoreapp3.1\KubernetesSample.exe
+C:\Users\Rahul\source\repos\KubernetesSample\obj\Debug\netcoreapp3.1\KubernetesSample.csprojAssemblyReference.cache
+C:\Users\Rahul\source\repos\KubernetesSample\obj\Debug\netcoreapp3.1\KubernetesSample.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\KubernetesSample\obj\Debug\netcoreapp3.1\KubernetesSample.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\KubernetesSample\obj\Debug\netcoreapp3.1\KubernetesSample.RazorTargetAssemblyInfo.cache
+C:\Users\Rahul\source\repos\KubernetesSample\obj\Debug\netcoreapp3.1\staticwebassets\KubernetesSample.StaticWebAssets.Manifest.cache
+C:\Users\Rahul\source\repos\KubernetesSample\obj\Debug\netcoreapp3.1\staticwebassets\KubernetesSample.StaticWebAssets.xml
